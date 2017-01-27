@@ -479,6 +479,10 @@ h6,
 #msg-box5-2p P {
   text-align: left;
 }
+#header3-31 .mbr-section-title,
+#header3-31 .mbr-section-subtitle {
+  text-align: center;
+}
 #features4-2q .card-subtitle {
   color: #bcbcbc;
 }
