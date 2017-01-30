@@ -1156,6 +1156,14 @@ h6,
 #ext_menu-2u .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#header3-36 .mbr-section-title,
+#header3-36 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-38 .mbr-section-title,
+#header3-38 .mbr-section-subtitle {
+  text-align: center;
+}
 
 #header3-1h .mbr-section-title,
 #header3-1h .mbr-section-subtitle {
@@ -1261,11 +1269,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-z .link {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 #ext_menu-z .dropdown-item,
 #ext_menu-z .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.866rem;
 }
 #ext_menu-z .link:hover,
 #ext_menu-z .dropdown-item:hover,
