@@ -770,11 +770,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-p .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #ext_menu-p .dropdown-item,
 #ext_menu-p .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #ext_menu-p .link:hover,
 #ext_menu-p .dropdown-item:hover,
@@ -1049,11 +1049,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-2i .link {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 #ext_menu-2i .dropdown-item,
 #ext_menu-2i .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.866rem;
 }
 #ext_menu-2i .link:hover,
 #ext_menu-2i .dropdown-item:hover,
