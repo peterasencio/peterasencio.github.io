@@ -1325,10 +1325,6 @@ h6,
   text-align: center;
 }
 
-#header3-3i .mbr-section-title,
-#header3-3i .mbr-section-subtitle {
-  text-align: center;
-}
 #ext_menu-3f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1391,4 +1387,8 @@ h6,
 #ext_menu-3f .link[aria-expanded="true"],
 #ext_menu-3f .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#header3-3l .mbr-section-title,
+#header3-3l .mbr-section-subtitle {
+  text-align: center;
 }
