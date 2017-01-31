@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page12.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 130,
     "versionPublish": "3.11.1",
@@ -320,7 +320,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "to-local-drive",
+              "name": "opened-folder",
               "family": "MobiriseIcons",
               "active": true,
               "link": "#",
@@ -337,7 +337,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "sun",
+              "name": "users",
               "family": "MobiriseIcons",
               "active": true,
               "link": "#",
@@ -2689,7 +2689,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x13336.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
