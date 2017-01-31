@@ -693,11 +693,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-k .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #ext_menu-k .dropdown-item,
 #ext_menu-k .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #ext_menu-k .link:hover,
 #ext_menu-k .dropdown-item:hover,
@@ -1322,5 +1322,73 @@ h6,
 }
 #header3-1d .mbr-section-title,
 #header3-1d .mbr-section-subtitle {
+  text-align: center;
+}
+
+#ext_menu-3a .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3a .navbar-caption {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+#ext_menu-3a .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3a .close-icon::before,
+#ext_menu-3a .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3a .link,
+#ext_menu-3a .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-3a .link {
+  font-size: 0.8rem;
+}
+#ext_menu-3a .dropdown-item,
+#ext_menu-3a .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-3a .link:hover,
+#ext_menu-3a .dropdown-item:hover,
+#ext_menu-3a .link:focus,
+#ext_menu-3a .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-3a .link[aria-expanded="true"],
+#ext_menu-3a .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-3a .nav-dropdown-sm .link:focus,
+#ext_menu-3a .nav-dropdown-sm .link:hover,
+#ext_menu-3a .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3a .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-3a .navbar,
+#ext_menu-3a .nav-dropdown-sm,
+#ext_menu-3a .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3a .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-3a .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3a .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3a .bg-color.transparent.opened .link:hover,
+#ext_menu-3a .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-3a .link[aria-expanded="true"],
+#ext_menu-3a .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#header3-3e .mbr-section-title,
+#header3-3e .mbr-section-subtitle {
   text-align: center;
 }
