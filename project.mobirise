@@ -2687,7 +2687,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x13335.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4429,7 +4429,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x13335.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
