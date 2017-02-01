@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Access Gallery.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 156,
     "versionPublish": "3.11.1",
@@ -294,7 +294,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 3,
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -333,13 +333,13 @@
           },
           "title2": "Goal 2",
           "subtitle2": "Completing all my industry certifications",
-          "caption2": "In Miami Arts Studio 6-12 we can complete industry certifications such as Photoshop, Illustrator and much more. This will allow us to complete certifications to that will give us the opportunity to get a job.",
+          "caption2": "In Miami Arts Studio 6-12 we can complete industry certifications such as Photoshop, Illustrator and much more. This will allow me to complete certifications to that will give me the opportunity to get a job regarding that field.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "users",
+              "name": "rocket",
               "family": "MobiriseIcons",
               "active": true,
               "link": "#",
@@ -349,23 +349,24 @@
             }
           },
           "title3": "Goal 3",
-          "subtitle3": "Getting wonderful teachers in the future years",
-          "caption3": "It’s always a great thing to get wonderful teachers because this will enhance my education. These teachers will be very on top of my activities as well as my progression during classes.",
+          "subtitle3": "Becoming a Video Game Designer",
+          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">I have always been fasinated when it came to the quality of the graphics in video games. The way that video games operate and the way that they are produced. I always wanted to be hired in a well known game industry that specialized in the game genre that I was interested in. With all the industry certifications that I'm achieving I'll have a larger chance of getting selected compared to a individual that has nothing.</span><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
+              "linkInNewWindow": false,
+              "name": "devices",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "black"
             }
           },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title4": "Goal 4",
+          "subtitle4": "Becoming a Graphic Designer",
+          "caption4": "With the time that I have been with Miami Arts Studio I have come to realized that I can get a job in this field. I have common knowledge regarding all the Adobe products. I also have a lot experience since all years that I have been attending my school..",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -465,7 +466,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: pasencio005@outlook.com<br>\nPhone: 786-804-2040<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: pasencio@miamiartsstudio.com<br>\nPhone: 786-804-2040<br><br>",
           "text3": "<strong>Links</strong><br><a href=\"index.html\">Home</a>"
         }
       ]
@@ -627,8 +628,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: pasencio005@outlook.com<br>\nPhone: 786-804-2040<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text2": "<strong>Contacts</strong><br>\nEmail: pasencio@miamiartsstudio.com<br>\nPhone: 786-804-2040<br><br>",
+          "text3": "<strong>Links</strong><br><a href=\"index.html\">Home</a>"
         },
         {
           "_tags": [
@@ -1173,7 +1174,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: pasencio005@outlook.com<br>\nPhone: 786-804-2040<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: pasencio@miamiartsstudio.com<br>\nPhone: 786-804-2040<br><br>",
           "text3": "<strong>Links</strong><br><a href=\"index.html\">Home</a>"
         },
         {
@@ -2691,7 +2692,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x13334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x13339.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
