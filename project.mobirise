@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 156,
+    "uniqCompNum": 164,
     "versionPublish": "3.11.1",
     "name": "Peter Asencio - Portfolio",
     "theme": {
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -145,7 +145,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -252,12 +252,12 @@
           "_name": "header3",
           "_anchor": "header3-31",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "GOALS AND ACHIEVEMENTS",
+          "title": "FUTURE GOALS",
           "meta": ""
         },
         {
@@ -280,8 +280,8 @@
           "_anchor": "features4-2q",
           "_params": {
             "iconsBgColor": "#f2f2f2",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -314,9 +314,9 @@
               "newWindow": false
             }
           },
-          "title1": "Goal 1",
+          "title1": "Firefighter/Paramedic",
           "subtitle1": "Becoming a Firefighter/Paramedic",
-          "caption1": "All my life I’ve always wanted to become a firefighter/Paramedic since I have always been motivated to become one since the days that my father comes home during 24 hour shifts. My father has been such a large influence in my life journey. My father has recently added me in a fire cadet program which will allow me to become introduced to all the items that I will see on the field. This will allow to become ahead of all the other cadets when I apply for firefighter school. ",
+          "caption1": "All my life I’ve always wanted to become a Firefighter/Paramedic. I've been motivated to become one ever since the days I've seen my father come home after 24 hour shifts. My father has been such a large influence in my life. My father has recently added me in a fire cadet program which will allow me to become introduced to all the items that I will see on the field. This will allow me to become ahead of all the other cadets when I apply for firefighter school. ",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -331,7 +331,7 @@
               "newWindow": false
             }
           },
-          "title2": "Goal 2",
+          "title2": "Certifications",
           "subtitle2": "Completing all my industry certifications",
           "caption2": "In Miami Arts Studio 6-12 we can complete industry certifications such as Photoshop, Illustrator and much more. This will allow me to complete certifications to that will give me the opportunity to get a job regarding that field.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -348,7 +348,7 @@
               "newWindow": false
             }
           },
-          "title3": "Goal 3",
+          "title3": "Video Game Designer",
           "subtitle3": "Becoming a Video Game Designer",
           "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">I have always been fasinated when it came to the quality of the graphics in video games. The way that video games operate and the way that they are produced. I always wanted to be hired in a well known game industry that specialized in the game genre that I was interested in. With all the industry certifications that I'm achieving I'll have a larger chance of getting selected compared to a individual that has nothing.</span><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -364,7 +364,7 @@
               "color": "black"
             }
           },
-          "title4": "Goal 4",
+          "title4": "Graphic Designer",
           "subtitle4": "Becoming a Graphic Designer",
           "caption4": "With the time that I have been with Miami Arts Studio I have come to realized that I can get a job in this field. I have common knowledge regarding all the Adobe products. I also have a lot experience since all years that I have been attending my school..",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -426,8 +426,8 @@
           "_name": "content1",
           "_anchor": "content1-2s",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "text": "<p><br></p><p><br></p><p><br></p><p>Since I was a child I was influenced by my father who is currently a Firefighter and Paramedic and decided to follow his footsteps and also become a Firefighter and Paramedic when I grow older. I have been playing with toy fire trucks since I was a child and I have many memories of going to the fire stations and sitting in the driver’s seat of the fire trucks and playing with the fire hoses.</p><p><br></p><p>I have chosen this path, as my future career because I believe it is a very noble career. What could more noble than putting your own life on the line in order to save the lives of others. The main part of the job is to serve the public and save lives. This could from being in a fire, saving someone having a heart attack, or even saving a child from drowning. the possibilities are endless.</p><p><br></p><p>This is a career that requires many different skills. Not only do you have to be in great shape in order to perform to your fullest potential, but you also need to have a lot of medical knowledge to help all the sick people and provide them with the medical care. Another area that is very helpful to know is Chemistry because you could become a Hazardous Material Technician and deal with radiological, biological, or chemical substances.&nbsp;</p><p><br></p><p><br></p><p><br></p>"
@@ -439,12 +439,12 @@
           "_name": "contacts1",
           "_anchor": "contacts1-c",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -565,7 +565,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "social-buttons2",
@@ -601,12 +601,12 @@
           "_name": "contacts1",
           "_anchor": "contacts1-c",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -643,7 +643,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -912,7 +912,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1147,12 +1147,12 @@
           "_name": "contacts1",
           "_anchor": "contacts1-c",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1189,7 +1189,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1293,7 +1293,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1307,7 +1307,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1510,7 +1510,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1524,7 +1524,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1587,7 +1587,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         }
       ]
     },
@@ -1685,7 +1685,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1699,7 +1699,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1712,7 +1712,7 @@
     "Adobe Animate Gallery.html": {
       "settings": {
         "title": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1833,7 +1833,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -1937,6 +1937,59 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-vintage-television-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-vintage-television-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-design-2-final-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-design-2-final-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "2",
@@ -1963,7 +2016,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1976,7 +2029,7 @@
     "Adobe Premiere Gallery.html": {
       "settings": {
         "title": "",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2117,7 +2170,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -2575,7 +2628,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2587,7 +2640,7 @@
     },
     "Reference.html": {
       "settings": {
-        "order": 10,
+        "order": 11,
         "title": "Reference"
       },
       "components": [
@@ -2680,7 +2733,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -2692,7 +2745,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x13339.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x1333131.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2808,7 +2861,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2821,7 +2874,7 @@
     "credentials.html": {
       "settings": {
         "title": "Credentials",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2913,7 +2966,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -2927,7 +2980,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3089,7 +3142,7 @@
     "Adobe Photoshop Gallery.html": {
       "settings": {
         "title": "Adobe Photoshop Gallery",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3230,7 +3283,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -3622,7 +3675,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3635,7 +3688,7 @@
     "Adobe Illustrator Gallery.html": {
       "settings": {
         "title": "Adobe Illustrator Gallery",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3776,7 +3829,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -4085,7 +4138,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-vintage-television-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-vintage-television-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-vintage-television-2000x1500132.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4217,7 +4270,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4231,7 +4284,7 @@
       "settings": {
         "title": "123D Gallery",
         "meta_descr": "Website Builder Description",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -4323,7 +4376,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -4337,7 +4390,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4462,7 +4515,7 @@
     "Word Gallery.html": {
       "settings": {
         "title": "Word Gallery",
-        "order": 9
+        "order": 15
       },
       "components": [
         {
@@ -4583,7 +4636,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -4713,7 +4766,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4726,7 +4779,7 @@
     "Powerpoint Gallery.html": {
       "settings": {
         "title": "Powerpoint Gallery",
-        "order": 9
+        "order": 16
       },
       "components": [
         {
@@ -4847,7 +4900,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -4977,7 +5030,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4990,7 +5043,7 @@
     "Excel Gallery.html": {
       "settings": {
         "title": "Excel Gallery",
-        "order": 9
+        "order": 17
       },
       "components": [
         {
@@ -5111,7 +5164,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -5241,7 +5294,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -5254,7 +5307,7 @@
     "Access Gallery.html": {
       "settings": {
         "title": "Accessl Gallery",
-        "order": 9
+        "order": 18
       },
       "components": [
         {
@@ -5375,7 +5428,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -5505,7 +5558,350 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Peter Asencio."
+        }
+      ]
+    },
+    "Illustrator Gallery.html": {
+      "settings": {
+        "title": "Illustrator Gallery",
+        "order": 7
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-4c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Adobe Illustrator",
+          "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4d",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "user",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word Gallery.html\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Projects",
+          "meta": "By Peter Asencio"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mario-banner-peter-asencio-2000x516-800x206-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mario-banner-peter-asencio-2000x516135.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-banner5-2000x516-800x206-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-banner5-2000x516136.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-banner-peter-asencio-01-2000x516-800x206-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-banner-peter-asencio-01-2000x516137.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-if-walls-could-talk-2000x2962-800x1184133.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-if-walls-could-talk-2000x2962138.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-doodle-4-google-with-timeline-2000x800-800x320134.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-doodle-4-google-with-timeline-2000x800139.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/profile-pic-redefined-2000x2000-800x800-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/profile-pic-redefined-2000x2000140.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-vintage-television-2000x1500-800x600-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-vintage-television-2000x1500141.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-faces-2000x499-800x199-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-faces-2000x499142.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x2000-800x800-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x2000143.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4i",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-maverick-logo-design-2000x2588-800x1035144.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-maverick-logo-design-2000x2588147.jpg",
+                "caption": "Maverick Logo Design (School Chosen)",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-sights-and-sounds-of-the-60s-posters-2000x2962-800x1184145.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-sights-and-sounds-of-the-60s-posters-2000x2962148.jpg",
+                "caption": "Sights and Sounds of the 60s Poster Design",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000-800x800146.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000149.jpg",
+                "caption": "Technology Production Logo",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-design-2-final-2000x2000-800x800-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-design-2-final-2000x2000150.jpg",
+                "caption": "MDCPS Logo Design",
+                "active": true
+              }
+            ],
+            "spacing": "2",
+            "showText": true,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-4j",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
