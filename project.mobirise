@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Adobe Photoshop Gallery.html",
+    "currentPage": "Adobe Illustrator Gallery.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 164,
     "versionPublish": "3.11.1",
@@ -2745,7 +2745,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x133325.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x133313.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5156,7 +5156,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-vintage-television-2000x1500-800x600-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-vintage-television-2000x150026.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-vintage-television-2000x150014.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -5176,7 +5176,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x2000-800x800-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x200027.jpg",
+                "image": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x200015.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -5228,8 +5228,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000-800x80028.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x200029.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000-800x80016.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x200017.jpg",
                 "caption": "Technology Production Logo",
                 "active": false
               },
@@ -5239,7 +5239,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-design-2-final-2000x2000-800x800-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-design-2-final-2000x200030.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-design-2-final-2000x200018.jpg",
                 "caption": "MDCPS Logo Design",
                 "active": true
               }
