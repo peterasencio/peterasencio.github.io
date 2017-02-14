@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Reference.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 171,
+    "uniqCompNum": 172,
     "versionPublish": "3.11.1",
     "name": "Peter Asencio - Portfolio",
     "theme": {
@@ -2033,10 +2033,11 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
+          "_inherit": "testimonials2",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials2",
+          "_name": "testimonials4",
           "testimonial": [
             {
               "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
@@ -2053,7 +2054,7 @@
               "authorBio": "Tech Production Teacher"
             },
             {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -2095,27 +2096,32 @@
               "authorBio": "Math Teacher"
             }
           ],
-          "_anchor": "testimonials2-2l",
+          "_anchor": "testimonials4-4r",
           "_params": {
             "count": "4",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1321.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#222",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#ffffff",
             "showTitle": true,
-            "showSubtitle": true
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": true
           },
-          "title": "WHAT MY FANTASTIC TEACHERS HAVE TO SAY",
-          "subtitle": "Teachers that have changed my life forever."
+          "title": "WHAT MY FANTASTIC TEACHERS HAVE TO SAY<br>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_tags": [
