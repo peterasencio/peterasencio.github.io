@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Reference.html",
+    "currentPage": "Adobe Photoshop Gallery.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 172,
+    "uniqCompNum": 174,
     "versionPublish": "3.11.1",
     "name": "Peter Asencio - Portfolio",
     "theme": {
@@ -2038,6 +2038,17 @@
             "Theme"
           ],
           "_name": "testimonials4",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#efefef"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div": {
+              "color": "#efefef"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
@@ -2101,27 +2112,22 @@
             "count": "4",
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1321.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000000",
             "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "WHAT MY FANTASTIC TEACHERS HAVE TO SAY<br>",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".card-footer > small": {
-              "color": "#000000"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_tags": [
@@ -2639,6 +2645,59 @@
             "showBullets": true
           },
           "_anchor": "gallery4-1p",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Ongoing Projects",
+          "meta": "By Peter Asencio"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-2000x1333.jpg",
+                "caption": "Reproduction",
+                "active": true
+              }
+            ],
+            "spacing": "2",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-4t",
           "articleLayout": false,
           "allItem": "All"
         },

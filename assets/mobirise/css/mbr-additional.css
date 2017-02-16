@@ -940,7 +940,13 @@ h6,
   color: #ffffff!important;
 }
 #testimonials4-4r .card-footer > small {
-  color: #000000;
+  color: #efefef;
+}
+#testimonials4-4r .mbr-section-title {
+  color: #ffffff;
+}
+#testimonials4-4r .card-footer > div {
+  color: #efefef;
 }
 
 #ext_menu-2u .hide-buttons .nav-btn {
@@ -1080,6 +1086,10 @@ h6,
 }
 #header3-1o .mbr-section-title,
 #header3-1o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4s .mbr-section-title,
+#header3-4s .mbr-section-subtitle {
   text-align: center;
 }
 
