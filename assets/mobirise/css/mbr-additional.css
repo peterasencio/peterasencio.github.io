@@ -476,27 +476,6 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
-#msg-box5-2p P {
-  text-align: left;
-}
-#header3-31 .mbr-section-title,
-#header3-31 .mbr-section-subtitle {
-  text-align: center;
-}
-#features4-2q .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-2q .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#features4-2q P {
-  text-align: left;
-}
-#header3-2r .mbr-section-title,
-#header3-2r .mbr-section-subtitle {
-  text-align: center;
-}
 
 
 #ext_menu-3 .hide-buttons .nav-btn {
@@ -1566,5 +1545,90 @@ h6,
 }
 #header3-3l .mbr-section-title,
 #header3-3l .mbr-section-subtitle {
+  text-align: center;
+}
+
+#ext_menu-4u .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-4u .navbar-caption {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+#ext_menu-4u .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-4u .close-icon::before,
+#ext_menu-4u .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-4u .link,
+#ext_menu-4u .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-4u .link {
+  font-size: 0.8rem;
+}
+#ext_menu-4u .dropdown-item,
+#ext_menu-4u .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-4u .link:hover,
+#ext_menu-4u .dropdown-item:hover,
+#ext_menu-4u .link:focus,
+#ext_menu-4u .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-4u .link[aria-expanded="true"],
+#ext_menu-4u .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-4u .nav-dropdown-sm .link:focus,
+#ext_menu-4u .nav-dropdown-sm .link:hover,
+#ext_menu-4u .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-4u .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-4u .navbar,
+#ext_menu-4u .nav-dropdown-sm,
+#ext_menu-4u .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-4u .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-4u .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-4u .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-4u .bg-color.transparent.opened .link:hover,
+#ext_menu-4u .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-4u .link[aria-expanded="true"],
+#ext_menu-4u .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#msg-box5-4x P {
+  text-align: left;
+}
+#header3-4y .mbr-section-title,
+#header3-4y .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-4z .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-4z .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-4z P {
+  text-align: left;
+}
+#header3-50 .mbr-section-title,
+#header3-50 .mbr-section-subtitle {
   text-align: center;
 }

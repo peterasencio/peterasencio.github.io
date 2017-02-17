@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Adobe Photoshop Gallery.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 174,
+    "uniqCompNum": 183,
     "versionPublish": "3.11.1",
     "name": "Peter Asencio - Portfolio",
     "theme": {
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe InDesign Gallery.html\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Design.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Word Gallery.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://peterasencio.github.io/documents/Peter Asencio Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html#content1-51\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html#features4-4z\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html#contacts1-52\">Contact Information</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe InDesign Gallery.html\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Design.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Word Gallery.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://peterasencio.github.io/documents/Peter Asencio Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -163,7 +163,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -177,304 +177,17 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": false,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "Peter Asencio",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-2p",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1482176012301-7421d86c74bb-2000x1329-1.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/file-000-1-1400x1400.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "BIOGRAPHY",
-          "text": "When I was a child I was obssessed with video games. When I purchased my first console, I remember grabbing a large container and saving money as I would complete various tasks around the house and in other places. Every time I would play a new game I was fascinated by the graphics, During those years I knew I was going to be a video game designer. As I grew up I was heavily influenced by my father to become a Firefighter. Since then I came to the conclusion to pursue in my father's foot steps.\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#header3-2r\" data-toolbar=\"-mbrBtnMove\">Cont.</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-31",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "FUTURE GOALS",
-          "meta": ""
-        },
-        {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features4",
-          "_anchor": "features4-2q",
-          "_params": {
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "user",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "#",
-              "size": 0,
-              "color": "black",
-              "newWindow": false
-            }
-          },
-          "title1": "Firefighter/Paramedic",
-          "subtitle1": "Becoming a Firefighter/Paramedic",
-          "caption1": "All my life I’ve always wanted to become a Firefighter/Paramedic. I've been motivated to become one ever since the days I've seen my father come home after 24 hour shifts. My father has been such a large influence in my life. My father has recently added me in a fire cadet program which will allow me to become introduced to all the items that I will see on the field. This will allow me to become ahead of all the other cadets when I apply for firefighter school. ",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "opened-folder",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "#",
-              "size": 0,
-              "color": "black",
-              "newWindow": false
-            }
-          },
-          "title2": "Certifications",
-          "subtitle2": "Completing all my industry certifications",
-          "caption2": "In Miami Arts Studio 6-12 we can complete industry certifications such as Photoshop, Illustrator and much more. This will allow me to complete certifications to that will give me the opportunity to get a job regarding the field that I want to apply in.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "rocket",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "#",
-              "size": 0,
-              "color": "black",
-              "newWindow": false
-            }
-          },
-          "title3": "Video Game Designer",
-          "subtitle3": "Becoming a Video Game Designer",
-          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">I have always been fasinated when it came to the quality of the graphics in video games. The way that video games operate and the way that they are produced. I always wanted to be hired in a well known game industry that specialized in the game genre that I was interested in. With all the industry certifications that I'm achieving I'll have a larger chance of getting selected compared to a individual that has nothing.</span><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "devices",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black"
-            }
-          },
-          "title4": "Graphic Designer",
-          "subtitle4": "Becoming a Graphic Designer",
-          "caption4": "With the time that I have been with Miami Arts Studio I have come to realized that I can get a job in this field. I have common knowledge regarding all the Adobe products. I also have a lot experience since all years that I have been attending my school..",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2r",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "BIOGRAPHY CONT.",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2s",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p><br></p><p><br></p><p><br></p><p>Since I was a child I was influenced by my father who is currently a Firefighter and Paramedic and decided to follow his footsteps and also become a Firefighter and Paramedic when I grow older. I have been playing with toy fire trucks since I was a child and I have many memories of going to the fire stations and sitting in the driver’s seat of the fire trucks and playing with the fire hoses.</p><p><br></p><p>I have chosen this path, as my future career because I believe it is a very noble career. What could more noble than putting your own life on the line in order to save the lives of others. The main part of the job is to serve the public and save lives. This could from being in a fire, saving someone having a heart attack, or even saving a child from drowning. the possibilities are endless.</p><p><br></p><p>This is a career that requires many different skills. Not only do you have to be in great shape in order to perform to your fullest potential, but you also need to have a lot of medical knowledge to help all the sick people and provide them with the medical care. Another area that is very helpful to know is Chemistry because you could become a Hazardous Material Technician and deal with radiological, biological, or chemical substances.&nbsp;</p><p><br></p><p><br></p><p><br></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-c",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "map-pin",
-              "family": "et-line",
-              "link": "",
-              "size": 0,
-              "active": true
-            }
-          },
-          "text1": "<strong>Address</strong><br>5913 SW 133 PL  MIAMI, FL 33183 &nbsp;<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: pasencio@miamiartsstudio.com<br>\nPhone: 786-804-2040<br><br>",
-          "text3": "<strong>Links</strong><br><a href=\"index.html\">Home</a><br><br>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Enter Introduction</a>"
         }
       ]
     },
     "page1.html": {
       "settings": {
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -821,7 +534,7 @@
     },
     "Biography.html": {
       "settings": {
-        "order": 2,
+        "order": 3,
         "title": ""
       },
       "components": [
@@ -1203,7 +916,7 @@
     },
     "Contact Information.html": {
       "settings": {
-        "order": 14,
+        "order": 15,
         "title": "Contact Info."
       },
       "components": [
@@ -1380,7 +1093,7 @@
     "Adobe Animate Gallery.html": {
       "settings": {
         "title": "Adobe Animate Gallery",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1645,7 +1358,7 @@
     "Adobe Premiere Gallery.html": {
       "settings": {
         "title": "Adobe Premiere Gallery",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1908,7 +1621,7 @@
     },
     "Reference.html": {
       "settings": {
-        "order": 15,
+        "order": 16,
         "title": "Reference"
       },
       "components": [
@@ -2154,7 +1867,7 @@
     "credentials.html": {
       "settings": {
         "title": "Credentials",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -2422,7 +2135,7 @@
     "Adobe Photoshop Gallery.html": {
       "settings": {
         "title": "Adobe Photoshop Gallery",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2543,7 +2256,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-2p\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-2q\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-c\">Contact Information</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe InDesign Gallery.html\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Design.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Word Gallery.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://peterasencio.github.io/documents/Peter Asencio Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html#content1-51\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html#features4-4z\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html#contacts1-52\">Contact Information</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe InDesign Gallery.html\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Design.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Word Gallery.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://peterasencio.github.io/documents/Peter Asencio Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -2726,7 +2439,7 @@
     "Adobe Illustrator Gallery.html": {
       "settings": {
         "title": "Adobe Illustrator Gallery",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2996,7 +2709,7 @@
     "Word Gallery.html": {
       "settings": {
         "title": "Word Gallery",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -3260,7 +2973,7 @@
     "Powerpoint Gallery.html": {
       "settings": {
         "title": "Powerpoint Gallery",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -3524,7 +3237,7 @@
     "Excel Gallery.html": {
       "settings": {
         "title": "Excel Gallery",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -3788,7 +3501,7 @@
     "Access Gallery.html": {
       "settings": {
         "title": "Accessl Gallery",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -4052,7 +3765,7 @@
     "Adobe InDesign Gallery.html": {
       "settings": {
         "title": "Adobe InDesign Gallery",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -4317,7 +4030,7 @@
       "settings": {
         "title": "123D Gallery",
         "meta_descr": "Website Builder Description",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -4542,6 +4255,419 @@
           "_anchor": "gallery4-3k",
           "articleLayout": false,
           "allItem": "All"
+        }
+      ]
+    },
+    "Introduction.html": {
+      "settings": {
+        "title": "Peter Asencio - Portfolio",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4u",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/signature-426x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "user",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PETER ASENCIO</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html#content1-51\">Background Info.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html#features4-4z\">Goals/Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html#contacts1-52\">Contact Information</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Applications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop Gallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator Gallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Animate Gallery.html\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere Gallery.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe InDesign Gallery.html\">Adobe InDesign</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D Design.html\">123D Design</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Word Gallery.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://peterasencio.github.io/documents/Peter Asencio Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint Gallery.html\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel Gallery.html\">Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access Gallery.html\">Access</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Adobe Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">IC3 Certifications</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Lopez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mrs. Medero</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reference.html\">Mr. Gonzalez</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HELP/CONTACT INFO.</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact Information.html\">Submission Forms</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Peter Asencio."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-4x",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1482176012301-7421d86c74bb-2000x1329-1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/file-000-1-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BIOGRAPHY",
+          "text": "When I was a child I was obssessed with video games. When I purchased my first console, I remember grabbing a large container and saving money as I would complete various tasks around the house and in other places. Every time I would play a new game I was fascinated by the graphics, During those years I knew I was going to be a video game designer. As I grew up I was heavily influenced by my father to become a Firefighter. Since then I came to the conclusion to pursue in my father's foot steps.\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b\u001b &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#header3-2r\" data-toolbar=\"-mbrBtnMove\">Cont.</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "FUTURE GOALS",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-4z",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "user",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title1": "Firefighter/Paramedic",
+          "subtitle1": "Becoming a Firefighter/Paramedic",
+          "caption1": "All my life I’ve always wanted to become a Firefighter/Paramedic. I've been motivated to become one ever since the days I've seen my father come home after 24 hour shifts. My father has been such a large influence in my life. My father has recently added me in a fire cadet program which will allow me to become introduced to all the items that I will see on the field. This will allow me to become ahead of all the other cadets when I apply for firefighter school. ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "opened-folder",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title2": "Certifications",
+          "subtitle2": "Completing all my industry certifications",
+          "caption2": "In Miami Arts Studio 6-12 we can complete industry certifications such as Photoshop, Illustrator and much more. This will allow me to complete certifications to that will give me the opportunity to get a job regarding the field that I want to apply in.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "#",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title3": "Video Game Designer",
+          "subtitle3": "Becoming a Video Game Designer",
+          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">I have always been fasinated when it came to the quality of the graphics in video games. The way that video games operate and the way that they are produced. I always wanted to be hired in a well known game industry that specialized in the game genre that I was interested in. With all the industry certifications that I'm achieving I'll have a larger chance of getting selected compared to a individual that has nothing.</span><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "devices",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title4": "Graphic Designer",
+          "subtitle4": "Becoming a Graphic Designer",
+          "caption4": "With the time that I have been with Miami Arts Studio I have come to realized that I can get a job in this field. I have common knowledge regarding all the Adobe products. I also have a lot experience since all years that I have been attending my school..",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-50",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "BIOGRAPHY CONT.",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-51",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p><br></p><p>Since I was a child I was influenced by my father who is currently a Firefighter and Paramedic and decided to follow his footsteps and also become a Firefighter and Paramedic when I grow older. I have been playing with toy fire trucks since I was a child and I have many memories of going to the fire stations and sitting in the driver’s seat of the fire trucks and playing with the fire hoses.</p><p><br></p><p>I have chosen this path, as my future career because I believe it is a very noble career. What could more noble than putting your own life on the line in order to save the lives of others. The main part of the job is to serve the public and save lives. This could from being in a fire, saving someone having a heart attack, or even saving a child from drowning. the possibilities are endless.</p><p><br></p><p>This is a career that requires many different skills. Not only do you have to be in great shape in order to perform to your fullest potential, but you also need to have a lot of medical knowledge to help all the sick people and provide them with the medical care. Another area that is very helpful to know is Chemistry because you could become a Hazardous Material Technician and deal with radiological, biological, or chemical substances.&nbsp;</p><p><br></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-52",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>Address</strong><br>5913 SW 133 PL  MIAMI, FL 33183 &nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: pasencio@miamiartsstudio.com<br>\nPhone: 786-804-2040<br><br>",
+          "text3": "<strong>Links</strong><br><a href=\"index.html\">Home</a><br><br>"
         }
       ]
     }
