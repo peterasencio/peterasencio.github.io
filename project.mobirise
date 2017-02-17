@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 186,
     "versionPublish": "3.11.1",
@@ -181,7 +181,14 @@
           },
           "title": "Peter Asencio",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Enter Introduction</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Enter Introduction</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "84px"
+            }
+          }
         }
       ]
     },
