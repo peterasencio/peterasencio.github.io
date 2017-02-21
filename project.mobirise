@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Adobe Photoshop Gallery.html",
+    "currentPage": "Introduction.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 186,
+    "uniqCompNum": 187,
     "versionPublish": "3.11.1",
     "name": "Peter Asencio - Portfolio",
     "theme": {
@@ -4441,6 +4441,38 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Peter Asencio."
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-56",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/0rrKnuYq5iE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#ffffff",
+            "contentAlign": "right",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "INTRODUCTION",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
