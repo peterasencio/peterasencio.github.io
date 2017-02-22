@@ -232,8 +232,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -242,8 +242,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -252,8 +252,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/profile-pic-redefined-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/profile-pic-redefined-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/profile-pic-redefined-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/profile-pic-redefined-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -262,8 +262,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-maverick-logo-design-2000x2588-800x1035.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-maverick-logo-design-2000x2588.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-maverick-logo-design-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-maverick-logo-design-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -271,7 +271,7 @@
             "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#0d0d0d",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -2743,7 +2743,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x20001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x2000.jpg",
                 "caption": "Firefighter Design",
                 "active": false
               },
