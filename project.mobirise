@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 187,
+    "uniqCompNum": 189,
     "versionPublish": "3.11.1",
     "name": "Peter Asencio - Portfolio",
     "theme": {
@@ -193,6 +193,92 @@
           "title": "Peter Asencio",
           "text": "\"To do more for the world than the world does for you that is success.\" - Henry Ford",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Enter Introduction</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-58",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "SOME OF MY WORK",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-tp-logo-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/profile-pic-redefined-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/profile-pic-redefined-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-maverick-logo-design-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-maverick-logo-design-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-57",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     },
@@ -2657,7 +2743,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/firefighter-tattoo-2000x20001.jpg",
                 "caption": "Firefighter Design",
                 "active": false
               },

@@ -486,6 +486,13 @@ h6,
 #header1-35 .mbr-section-lead {
   font-family: 'Raleway', sans-serif;
 }
+#header3-58 .mbr-section-title,
+#header3-58 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-58 H3 {
+  color: #ffffff;
+}
 
 
 #ext_menu-3 .hide-buttons .nav-btn {
