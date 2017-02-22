@@ -1558,6 +1558,9 @@ h6,
   text-align: center;
 }
 
+#msg-box5-4x P {
+  text-align: left;
+}
 #ext_menu-4u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1620,9 +1623,6 @@ h6,
 #ext_menu-4u .link[aria-expanded="true"],
 #ext_menu-4u .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
-}
-#msg-box5-4x P {
-  text-align: left;
 }
 #header3-4y .mbr-section-title,
 #header3-4y .mbr-section-subtitle {
