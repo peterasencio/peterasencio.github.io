@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction.html",
+    "currentPage": "credentials.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 190,
     "versionPublish": "3.11.1",
@@ -1852,7 +1852,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/firefighter%201-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2117,7 +2117,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x133301.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/firefighter%202-2000x1328.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
