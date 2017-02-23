@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Introduction.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 189,
+    "uniqCompNum": 190,
     "versionPublish": "3.11.1",
     "name": "Peter Asencio - Portfolio",
     "theme": {
@@ -4585,6 +4585,26 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Peter Asencio."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-59",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "VIDEO ABOUT ME",
+          "meta": ""
         },
         {
           "_inherit": "header1",
