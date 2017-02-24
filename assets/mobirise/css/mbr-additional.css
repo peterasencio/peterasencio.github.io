@@ -493,6 +493,10 @@ h6,
 #header3-58 H3 {
   color: #ffffff;
 }
+#social-buttons4-5a .mbr-section-title,
+#social-buttons4-5a .btn-social {
+  color: #fff;
+}
 
 
 #ext_menu-3 .hide-buttons .nav-btn {
@@ -1652,4 +1656,8 @@ h6,
 #header3-50 .mbr-section-title,
 #header3-50 .mbr-section-subtitle {
   text-align: center;
+}
+#social-buttons4-5b .mbr-section-title,
+#social-buttons4-5b .btn-social {
+  color: #fff;
 }

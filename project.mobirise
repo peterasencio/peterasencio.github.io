@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "credentials.html",
+    "currentPage": "Introduction.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 190,
+    "uniqCompNum": 192,
     "versionPublish": "3.11.1",
     "name": "Peter Asencio - Portfolio",
     "theme": {
@@ -279,6 +279,33 @@
           "_anchor": "gallery2-57",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-5a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW ME",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC8JjpGBXmWP32wSyIyuBHOg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         }
       ]
     },
@@ -2535,7 +2562,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-2-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-2-2000x1333.jpg",
                 "caption": "Masterpiece Reprduction Phase 2",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -2546,6 +2573,16 @@
                 "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-3-2000x1333.jpg",
                 "caption": "Masterpiece Reprduction Phase 3",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-2-2000x1333.jpg",
+                "caption": "Masterpiece Reprduction Phase 2",
+                "active": true
               }
             ],
             "spacing": "2",
@@ -4866,6 +4903,33 @@
           "text1": "<strong>Address</strong><br>5913 SW 133 PL  MIAMI, FL 33183 &nbsp;<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: pasencio@miamiartsstudio.com<br>\nPhone: 786-804-2040<br><br>",
           "text3": "<strong>Links</strong><br><a href=\"index.html\">Home</a><br><br>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-5b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW ME",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC8JjpGBXmWP32wSyIyuBHOg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         }
       ]
     }
