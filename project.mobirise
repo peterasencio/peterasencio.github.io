@@ -1879,7 +1879,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/firefighter%201-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/firefighter-1-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2144,7 +2144,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/firefighter%202-2000x1328.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/firefighter-2-2000x1328.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4660,7 +4660,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/0rrKnuYq5iE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/quxTD72XHH0?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -4865,7 +4865,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p><br></p><p><br></p><p>Since I was a child I was influenced by my father who is currently a Firefighter and Paramedic and decided to follow his footsteps and also become a Firefighter and Paramedic when I grow older. I have been playing with toy fire trucks since I was a child and I have many memories of going to the fire stations and sitting in the driver’s seat of the fire trucks and playing with the fire hoses.</p><p><br></p><p>I have chosen this path, as my future career because I believe it is a very noble career. What could more noble than putting your own life on the line in order to save the lives of others. The main part of the job is to serve the public and save lives. This could from being in a fire, saving someone having a heart attack, or even saving a child from drowning. the possibilities are endless.</p><p><br></p><p>This is a career that requires many different skills. Not only do you have to be in great shape in order to perform to your fullest potential, but you also need to have a lot of medical knowledge to help all the sick people and provide them with the medical care. Another area that is very helpful to know is Chemistry because you could become a Hazardous Material Technician and deal with radiological, biological, or chemical substances.&nbsp;</p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p><br></p><p><br></p><p><br></p><p>Since I was a child I was influenced by my father who is currently a Firefighter and Paramedic and decided to follow his footsteps and also become a Firefighter and Paramedic when I grow older. I have been playing with toy fire trucks since I was a child and I have many memories of going to the fire stations and sitting in the driver’s seat of the fire trucks and playing with the fire hoses.</p><p><br></p><p>I have chosen this path, as my future career because I believe it is a very noble career. What could &nbsp;be more noble than putting your own life on the line in order to save the lives of others. The main part of the job is to serve the public and save lives. This could range from being in a fire, saving someone having a heart attack, or even saving a child from drowning. the possibilities are endless.</p><p><br></p><p>This is a career that requires many different skills. Not only do you have to be in great shape in order to perform to your fullest potential, but you also need to have a lot of medical knowledge to help all the sick people and provide them with the medical care. Another area that is very helpful to know is Chemistry because you could become a Hazardous Material Technician and deal with radiological, biological, or chemical substances.&nbsp;</p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
