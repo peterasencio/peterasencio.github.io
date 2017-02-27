@@ -2572,16 +2572,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-3-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-3-2000x1333.jpg",
                 "caption": "Masterpiece Reprduction Phase 3",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-2-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-2-2000x1333.jpg",
-                "caption": "Masterpiece Reprduction Phase 2",
                 "active": true
               }
             ],
@@ -4476,7 +4466,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.7",
             "overlayColor": "#fff",
             "inverse": false,
             "showTitle": true,
@@ -4640,7 +4630,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "VIDEO ABOUT ME",
+          "title": "VIDEO",
           "meta": ""
         },
         {
@@ -4664,8 +4654,8 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000000",
             "contentAlign": "right",
             "showTitle": false,
             "showText": false,
