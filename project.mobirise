@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Contact Information.html",
+    "currentPage": "Introduction.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 203,
+    "uniqCompNum": 205,
     "versionPublish": "3.11.1",
     "name": "Peter Asencio - Portfolio",
     "theme": {
@@ -3897,8 +3897,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x4254.jpg",
-                "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x10645.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x4258.jpg",
+                "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x10649.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3907,8 +3907,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x4254.jpg",
-                "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x10645.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x4258.jpg",
+                "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x10649.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3917,8 +3917,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x4254.jpg",
-                "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x10645.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x4258.jpg",
+                "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x10649.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3927,8 +3927,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x4254.jpg",
-                "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x10645.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x4258.jpg",
+                "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x10649.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -4402,18 +4402,23 @@
           "meta": ""
         },
         {
-          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_anchor": "header4-56",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5o",
           "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
@@ -4422,16 +4427,15 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000000",
-            "contentAlign": "right",
+            "overlayOpacity": "0.1",
+            "overlayColor": "#222",
             "showTitle": false,
             "showText": false,
-            "showButtons": false
+            "showButton": false
           },
-          "title": "INTRODUCTION",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
