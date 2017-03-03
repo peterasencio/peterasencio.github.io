@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Access Gallery.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 227,
     "versionPublish": "3.11.1",
@@ -1297,6 +1297,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-64",
           "_params": {
             "imageSize": "20",
@@ -1343,15 +1351,7 @@
           },
           "title": "Adobe Animate",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -1520,7 +1520,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -1562,6 +1562,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-62",
           "_params": {
             "imageSize": "20",
@@ -1608,15 +1616,7 @@
           },
           "title": "Adobe Premiere",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -1785,7 +1785,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -2344,6 +2344,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-63",
           "_params": {
             "imageSize": "20",
@@ -2390,15 +2398,7 @@
           },
           "title": "Adobe Photoshop",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -2644,6 +2644,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-2-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-2-2000x1333.jpg",
                 "caption": "Masterpiece Reprduction Phase 2",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-4-2000x1333.jpg",
+                "caption": "Masterpiece Reprduction Phase 3",
                 "active": false
               },
               {
@@ -2651,10 +2661,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-3-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-3-2000x1333.jpg",
-                "caption": "Masterpiece Reprduction Phase 3",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-5-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-5-2000x1333.jpg",
+                "caption": "Masterpiece Reprduction Phase 4",
+                "active": false
               }
             ],
             "spacing": "2",
@@ -2702,6 +2712,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-5z",
           "_params": {
             "imageSize": "20",
@@ -2748,15 +2766,7 @@
           },
           "title": "Adobe Illustrator",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -3006,6 +3016,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-67",
           "_params": {
             "imageSize": "20",
@@ -3052,15 +3070,7 @@
           },
           "title": "Microsoft Word",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -3136,7 +3146,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -3271,6 +3281,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-68",
           "_params": {
             "imageSize": "20",
@@ -3317,15 +3335,7 @@
           },
           "title": "Microsoft Powerpoint",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -3401,7 +3411,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -3536,6 +3546,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-69",
           "_params": {
             "imageSize": "20",
@@ -3582,15 +3600,7 @@
           },
           "title": "Microsoft Excel",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -3666,7 +3676,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -3801,6 +3811,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-6a",
           "_params": {
             "imageSize": "20",
@@ -3847,15 +3865,7 @@
           },
           "title": "Microsoft Access",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -4044,7 +4054,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -4066,6 +4076,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-65",
           "_params": {
             "imageSize": "20",
@@ -4112,15 +4130,7 @@
           },
           "title": "Adobe InDesign",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -4289,7 +4299,7 @@
             "spacing": "2",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -4445,6 +4455,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-66",
           "_params": {
             "imageSize": "20",
@@ -4491,15 +4509,7 @@
           },
           "title": "123D Design",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -4575,7 +4585,7 @@
             "spacing": "2",
             "showText": true,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
