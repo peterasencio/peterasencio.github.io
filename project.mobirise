@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 227,
+    "uniqCompNum": 228,
     "versionPublish": "3.11.1",
     "name": "Peter Asencio - Portfolio",
     "theme": {
@@ -204,15 +204,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-5q",
+          "_anchor": "header3-6b",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#c1c1c1",
-            "showMeta": false
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc",
+            "showMeta": true
           },
           "title": "",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": ""
         },
         {
           "_styles": {
@@ -285,7 +285,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-maverick-logo-design-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/peter-asencio-maverick-logo-design-2000x3000.jpg",
-                "caption": "MAS Logo Design (School Chosen)",
+                "caption": "MAS Logo Design (1st Place Design)",
                 "active": true
               }
             ],
@@ -314,7 +314,7 @@
           "_anchor": "header3-5v",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgColor": "#cccccc",
             "showMeta": true
           },
@@ -380,10 +380,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -728,10 +728,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
