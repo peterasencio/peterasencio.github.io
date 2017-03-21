@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "Adobe Photoshop Gallery.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 230,
+    "uniqCompNum": 234,
     "versionPublish": "3.11.1",
     "name": "Peter Asencio - Portfolio",
     "theme": {
@@ -2684,6 +2684,56 @@
                 "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333.jpg",
                 "caption": "Masterpiece Reprduction Phase 6",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x5332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x13333.jpg",
+                "caption": "Masterpiece Reprduction Phase 7",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333.jpg",
+                "caption": "Masterpiece Reprduction Phase 6",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-8-2000x1333.jpg",
+                "caption": "Masterpiece Reprduction Phase 8",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-9-2000x1333.jpg",
+                "caption": "Masterpiece Reprduction Phase 9",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-12-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-12-2000x1333.jpg",
+                "caption": "Masterpiece Reprduction Phase 10 (Completed)",
                 "active": true
               }
             ],
@@ -2695,7 +2745,7 @@
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery4-4t",
+          "_anchor": "gallery4-6e",
           "articleLayout": false,
           "allItem": "All"
         },
