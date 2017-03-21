@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Adobe Photoshop Gallery.html",
+    "currentPage": "Introduction.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 234,
     "versionPublish": "3.11.1",
@@ -2705,8 +2705,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x5334.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x13335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x5338.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x13339.jpg",
                 "caption": "Masterpiece Reprduction Phase 7",
                 "active": false
               },
@@ -4975,7 +4975,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/quxTD72XHH0?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/qIEryNRdV3s?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
