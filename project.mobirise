@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "credentials.html",
+    "currentPage": "Adobe Photoshop Gallery.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 234,
     "versionPublish": "3.11.1",
@@ -2627,7 +2627,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Ongoing Projects",
+          "title": "Masterpiece Reproduction Project",
           "meta": "By Peter Asencio"
         },
         {
@@ -2705,8 +2705,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x5332.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x13333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x5334.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x13335.jpg",
                 "caption": "Masterpiece Reprduction Phase 7",
                 "active": false
               },
