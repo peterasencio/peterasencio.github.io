@@ -498,6 +498,13 @@ h6,
   color: #ffffff;
   font-size: 32px;
 }
+#header3-6j .mbr-section-title,
+#header3-6j .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box5-6i H3 {
+  color: #ffffff;
+}
 #header3-5v .mbr-section-title,
 #header3-5v .mbr-section-subtitle {
   text-align: center;
@@ -1674,13 +1681,8 @@ h6,
 #header3-5t .mbr-section-subtitle {
   text-align: center;
 }
-#header3-5w .mbr-section-title,
-#header3-5w .mbr-section-subtitle {
-  text-align: center;
-}
-#msg-box8-5o .mbr-section-title,
-#msg-box8-5o p {
-  color: #fff;
+#msg-box5-6k H3 {
+  color: #ffffff;
 }
 #header3-5x .mbr-section-title,
 #header3-5x .mbr-section-subtitle {
