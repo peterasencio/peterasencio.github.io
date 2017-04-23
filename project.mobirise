@@ -1616,7 +1616,7 @@
           },
           "title": "Adobe Premiere",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/oOLg84YtH90\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons Believer</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/v3NPDLSST2M\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">A Thousand Million Reasons</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/oOLg84YtH90\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons Believer</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=H7PT9UVkvHA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">A Thousand Million Reasons</a>"
         },
         {
           "_inherit": "menu",
@@ -2705,8 +2705,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x5330.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x13331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x5332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x13333.jpg",
                 "caption": "Masterpiece Reprduction Phase 7",
                 "active": false
               },
