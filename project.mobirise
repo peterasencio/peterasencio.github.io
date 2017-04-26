@@ -175,7 +175,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/firefighter-hd-wallpapers-edited-2000x1328.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hma-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1743,9 +1743,9 @@
             "images": [
               {
                 "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=oOLg84YtH90",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-26-07-35-04.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x425.jpg",
                 "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064.jpg",
                 "caption": "Type caption here",
@@ -1753,9 +1753,9 @@
               },
               {
                 "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=cufsUp1Ba7Q&t=7s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-26-07-35-21.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x425.jpg",
                 "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064.jpg",
                 "caption": "Type caption here",
@@ -1763,23 +1763,23 @@
               },
               {
                 "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x425.jpg",
-                "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=H7PT9UVkvHA&t=64s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-26-07-36-01.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x425.jpg",
                 "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x425.jpg",
+                "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "2",
@@ -2705,8 +2705,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x5332.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x13333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x5330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x13331.jpg",
                 "caption": "Masterpiece Reprduction Phase 7",
                 "active": false
               },
