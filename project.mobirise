@@ -1765,7 +1765,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Coming Soon",
+          "title": "Videos",
           "meta": "By Peter Asencio"
         },
         {
@@ -1807,16 +1807,6 @@
                 "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x425.jpg",
-                "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
             "spacing": "2",
