@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Access Gallery.html",
+    "currentPage": "Adobe Premiere Gallery.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 240,
     "versionPublish": "3.11.1",
@@ -1653,7 +1653,7 @@
           },
           "title": "Adobe Premiere",
           "text": "Here are the pieces that I have worked on throughout the years that I have been apart of the Tech Production Magnet for Miami Arts Studio 6-12.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/oOLg84YtH90\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons Believer</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=H7PT9UVkvHA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">A Thousand Million Reasons</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/oOLg84YtH90\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons Believer</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/JxYyzuy2ffo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">A Thousand Million Reasons</a>"
         },
         {
           "_inherit": "menu",
@@ -1801,8 +1801,8 @@
               {
                 "tags": "Awesome",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=H7PT9UVkvHA&t=64s",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-26-07-36-01.jpg",
+                "videoUrl": "https://youtu.be/JxYyzuy2ffo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-28-07-53-02.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064-800x425.jpg",
                 "image": "@PROJECT_PATH@/assets/images/coming-soon-2000x1064.jpg",
                 "caption": "Type caption here",
@@ -2779,8 +2779,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x5332.jpg",
-                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x13333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x1333-800x5330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/peter-asencio-masterpiece-reproduction-7-2000x13331.jpg",
                 "caption": "Masterpiece Reprduction Phase 7",
                 "active": false
               },
