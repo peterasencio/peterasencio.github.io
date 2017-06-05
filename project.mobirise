@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Adobe Premiere Gallery.html",
+    "currentPage": "Adobe Photoshop Gallery.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 245,
     "versionPublish": "3.11.1",
@@ -347,6 +347,43 @@
           },
           "text": "Follow Me",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC8JjpGBXmWP32wSyIyuBHOg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-52",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>Address</strong><br>5913 SW 133 PL  MIAMI, FL 33183 &nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: pasencio@miamiartsstudio.com<br>\nPhone: 786-804-2040<br><br>",
+          "text3": "<strong>Links</strong><br><a href=\"index.html\">Home</a><br><br>"
         }
       ]
     },
